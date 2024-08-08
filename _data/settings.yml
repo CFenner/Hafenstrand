@@ -2,7 +2,7 @@
 # Site Settings
 title: Hafenstrand
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Mria is a multipurpose blog theme for Jekyll
+description: A Travel Blog
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -18,7 +18,7 @@ menu__settings:
       url: '/authors/'
 #    - title: 'Videos'
 #      url: '/videos/'
-    - title: 'Pages'
+    - title: 'Pages'  
       submenu:
       - url: '/about/'
         title: 'About'
@@ -26,6 +26,46 @@ menu__settings:
         title: 'Contact'
       - url: '/elements/'
         title: 'Elements'
+    - title: 'Mittelamerika'
+      submenu:  
+      - url: '/tags/?tag=costa-rica'
+        title: 'Costa Rica'
+    - title: 'Südamerika' 
+      submenu: 
+      - url: '/tags/?tag=argentienien'
+        title: 'Argentinien'
+      - url: '/tags/?tag=bolivien'
+        title: 'Bolivien'
+      - url: '/tags/?tag=chile'
+        title: 'Chile'
+      - url: '/tags/?tag=equador'
+        title: 'Ecuador'
+      - url: '/tags/?tag=peru'
+        title: 'Peru'
+      - url: '/tags/?tag=uruguay'
+        title: 'Uruguay'
+    - title: 'Ozeanien'  
+      submenu:
+      - url: '/tags/?tag='
+        title: 'About'
+      - url: '/tags/?tag='
+        title: 'About'
+    - title: 'Asien'  
+      submenu:
+      - url: '/tags/?tag=japan'
+        title: 'Japan'
+      - url: '/tags/?tag=singapur'
+        title: 'Singapur'
+    - title: 'Europa'  
+      submenu:
+      - url: '/tags/?tag=island'
+        title: 'Island'
+    - title: 'Zuhause'  
+      submenu:
+      - url: '/tags/?tag=hamburg'
+        title: 'Hamburg'
+      - url: '/tags/?tag=heidelberg'
+        title: 'Heidelberg'
 
 
 #-------------------------------
