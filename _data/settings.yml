@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Mria
+title: Hafenstrand
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Mria is a multipurpose blog theme for Jekyll
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -16,8 +16,8 @@ menu__settings:
       url: '/blog/'
     - title: 'Authors'
       url: '/authors/'
-    - title: 'Videos'
-      url: '/videos/'
+#    - title: 'Videos'
+#      url: '/videos/'
     - title: 'Pages'
       submenu:
       - url: '/about/'
@@ -55,10 +55,10 @@ blog__settings:
 
 #-------------------------------
 # Videos Section Settings
-videos__settings:
-  enable: true
-  videos__title: Latest Videos
-  videos__description:
+#videos__settings:
+#  enable: true
+#  videos__title: Latest Videos
+#  videos__description:
 
 
 #-------------------------------
@@ -82,14 +82,14 @@ author__section:
 
 #-------------------------------
 # Newsletter Settings
-mailchimp__settings:
-  enable: true
-  mailchimp__title: Get interesting news
-  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
-  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-  mailchimp__input__text: Your email address
-  mailchimp__button__text: Subscribe
-  mailchimp__background__image: /images/subscribe-bg.jpg
+#mailchimp__settings:
+#  enable: true
+#  mailchimp__title: Get interesting news
+#  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+#  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+#  mailchimp__input__text: Your email address
+#  mailchimp__button__text: Subscribe
+#  mailchimp__background__image: /images/subscribe-bg.jpg
 
 
 #-------------------------------
@@ -99,11 +99,11 @@ footer__description: Don’t limit yourself. Many people limit themselves to wha
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "vimeo", link: "https://vimeo.com"}
+#- {icon: "twitter", link: "https://twitter.com"}
+#- {icon: "facebook", link: "https://facebook.com"}
+#- {icon: "codepen", link: "https://codepen.io"}
+#- {icon: "pinterest", link: "https://pinterest.com"}
+- {icon: "vimeo", link: "https://vimeo.com/user13411725"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -134,9 +134,9 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvodstudio-demo
+#disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+#google-analytics: # Add your GA Tracking Id
