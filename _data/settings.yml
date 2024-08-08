@@ -10,22 +10,22 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
-      url: '/'
+    # - title: 'Home'
+    #   url: '/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'Authors'
       url: '/authors/'
 #    - title: 'Videos'
 #      url: '/videos/'
-    - title: 'Pages'  
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+    # - title: 'Pages'  
+    #   submenu:
+    #   - url: '/about/'
+    #     title: 'About'
+    #   - url: '/contact/'
+    #     title: 'Contact'
+    #   - url: '/elements/'
+    #     title: 'Elements'
     - title: 'Mittelamerika'
       submenu:  
       - url: '/tags/?tag=costa-rica'
@@ -46,10 +46,10 @@ menu__settings:
         title: 'Uruguay'
     - title: 'Ozeanien'  
       submenu:
-      - url: '/tags/?tag='
-        title: 'About'
-      - url: '/tags/?tag='
-        title: 'About'
+      - url: '/tags/?tag=fr-polynesien'
+        title: 'Fr.-Polynesien'
+      - url: '/tags/?tag=neuseeland'
+        title: 'Neuseeland'
     - title: 'Asien'  
       submenu:
       - url: '/tags/?tag=japan'
