@@ -6,6 +6,6 @@ cover:
 location: Hamburg, Germany
 #website: https://www.google.com
 #twitter: https://twitter.com
-#facebook: https://www.facebook.com
+github: https://github.com/cfenner/
 ---
-I have experience in photographing beauty, fashion, e-commerce, and product photography for various brands.
+Dad, Developer, Surfer
