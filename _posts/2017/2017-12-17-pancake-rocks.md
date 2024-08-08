@@ -1,7 +1,8 @@
 ---
 title: "Pancake Rocks"
 date: "2017-12-17"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_8954.jpg"
 ---

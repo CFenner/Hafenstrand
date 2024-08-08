@@ -1,7 +1,8 @@
 ---
 title: "Mendoza, La Serena, Valle Elqui"
 date: "2014-05-17"
-categories: 
+author: chrissi
+tags: 
   - "argentinien"
   - "chile"
 coverImage: "20140615-151536-54936188.jpg"

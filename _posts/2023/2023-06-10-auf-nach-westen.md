@@ -1,7 +1,8 @@
 ---
 title: "Auf nach Westen!"
 date: "2023-06-10"
-categories: 
+author: chrissi
+tags: 
   - "costa-rica"
 coverImage: "img_1309.jpg"
 ---

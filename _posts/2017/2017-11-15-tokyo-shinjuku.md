@@ -1,7 +1,8 @@
 ---
 title: "Tokyo - Shinjuku"
 date: "2017-11-15"
-categories: 
+author: chrissi
+tags: 
   - "japan"
 coverImage: "img_5367.jpg"
 ---

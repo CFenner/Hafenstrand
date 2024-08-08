@@ -1,7 +1,8 @@
 ---
 title: "Parque Pumalín - Dort wo der Puma wohnt"
 date: "2014-04-13"
-categories: 
+author: chrissi
+tags: 
   - "chile"
 coverImage: "20140418-200305.jpg"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Höhlenforscher"
 date: "2014-09-28"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "dscf5666.jpg"
 ---

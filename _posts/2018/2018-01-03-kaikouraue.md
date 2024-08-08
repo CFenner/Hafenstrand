@@ -1,7 +1,8 @@
 ---
 title: "Kaikoura"
 date: "2018-01-03"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_0216.jpg"
 ---

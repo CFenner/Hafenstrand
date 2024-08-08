@@ -1,7 +1,8 @@
 ---
 title: "Navigation on the Beagle Channel"
 date: "2014-03-17"
-categories: 
+author: chrissi
+tags: 
   - "argentinien"
 coverImage: "20140615-133630-48990931.jpg"
 ---

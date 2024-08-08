@@ -1,7 +1,8 @@
 ---
 title: "Laguna Esmeralda"
 date: "2014-03-15"
-categories: 
+author: chrissi
+tags: 
   - "argentinien"
 coverImage: "20140615-152639-55599065.jpg"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Saqsayhuaman, zweiter Versuch"
 date: "2014-06-19"
-categories: 
+author: chrissi
+tags: 
   - "peru"
 coverImage: "20140624-100733-36453990.jpg"
 ---

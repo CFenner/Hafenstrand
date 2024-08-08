@@ -1,7 +1,8 @@
 ---
 title: "Und wieder in Auckland"
 date: "2014-10-26"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_1495.jpg"
 ---

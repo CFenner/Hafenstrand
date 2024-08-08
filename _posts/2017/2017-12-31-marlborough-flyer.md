@@ -1,7 +1,8 @@
 ---
 title: "Marlborough Flyer"
 date: "2017-12-31"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_0092-1.jpg"
 ---

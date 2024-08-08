@@ -1,7 +1,8 @@
 ---
 title: "Arenal Hanging Bridge Park"
 date: "2023-06-16"
-categories: 
+author: chrissi
+tags: 
   - "costa-rica"
 coverImage: "img_2207.jpg"
 ---

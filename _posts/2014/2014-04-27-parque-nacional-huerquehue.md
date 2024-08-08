@@ -1,7 +1,8 @@
 ---
 title: "Parque Nacional Huerquehue"
 date: "2014-04-27"
-categories: 
+author: chrissi
+tags: 
   - "chile"
 coverImage: "20140615-131738-47858693.jpg"
 ---

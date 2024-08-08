@@ -1,7 +1,8 @@
 ---
 title: "Tahiti und Moorea"
 date: "2014-09-18"
-categories: 
+author: chrissi
+tags: 
   - "fr-polynesien"
 coverImage: "dscf4992.jpg"
 ---

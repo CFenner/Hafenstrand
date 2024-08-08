@@ -1,7 +1,8 @@
 ---
 title: "Milford Sound"
 date: "2017-12-04"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_7791-1.jpg"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Chiloé und die Odyssee dorthin"
 date: "2014-04-06"
-categories: 
+author: chrissi
+tags: 
   - "chile"
 coverImage: "20140615-155310-57190065.jpg"
 ---

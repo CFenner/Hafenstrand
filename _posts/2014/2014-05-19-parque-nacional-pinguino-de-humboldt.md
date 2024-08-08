@@ -1,7 +1,8 @@
 ---
 title: "Parque Nacional Pingüino de Humboldt"
 date: "2014-05-19"
-categories: 
+author: chrissi
+tags: 
   - "chile"
 coverImage: "20140615-132053-48053800.jpg"
 ---

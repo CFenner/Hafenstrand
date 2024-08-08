@@ -1,7 +1,8 @@
 ---
 title: "Auf in die Karibik!"
 date: "2023-06-04"
-categories: 
+author: chrissi
+tags: 
   - "costa-rica"
 coverImage: "img_0749.jpg"
 ---

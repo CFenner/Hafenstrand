@@ -1,7 +1,8 @@
 ---
 title: "Parque Nacional Volcán Arenal"
 date: "2023-06-17"
-categories: 
+author: chrissi
+tags: 
   - "costa-rica"
 coverImage: "img_4959.jpg"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "North Field Coffee"
 date: "2023-06-18"
-categories: 
+author: chrissi
+tags: 
   - "costa-rica"
 coverImage: "img_2415.jpg"
 ---

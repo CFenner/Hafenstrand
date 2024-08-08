@@ -1,7 +1,8 @@
 ---
 title: "Von San Pedro de Atacama, Chile nach Sucre, Bolivien"
 date: "2014-05-28"
-categories: 
+author: chrissi
+tags: 
   - "bolivien"
   - "chile"
 coverImage: "20140615-134347-49427345.jpg"

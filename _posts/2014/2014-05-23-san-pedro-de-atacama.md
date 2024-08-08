@@ -1,7 +1,8 @@
 ---
 title: "San Pedro de Atacama"
 date: "2014-05-23"
-categories: 
+author: chrissi
+tags: 
   - "chile"
 coverImage: "20140615-141001-51001344.jpg"
 ---

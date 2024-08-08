@@ -1,7 +1,8 @@
 ---
 title: "Puerto Natales"
 date: "2014-03-19"
-categories: 
+author: chrissi
+tags: 
   - "chile"
 coverImage: "20140615-155623-57383213.jpg"
 ---

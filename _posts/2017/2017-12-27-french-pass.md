@@ -1,7 +1,8 @@
 ---
 title: "French Pass"
 date: "2017-12-27"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_9626-1.jpg"
 ---

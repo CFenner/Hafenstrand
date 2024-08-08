@@ -1,7 +1,8 @@
 ---
 title: "Leinen Los!"
 date: "2014-08-05"
-categories: 
+author: chrissi
+tags: 
   - "ecuador"
 coverImage: "20140806-082831-30511406.jpg"
 ---

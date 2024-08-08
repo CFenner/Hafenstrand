@@ -1,7 +1,8 @@
 ---
 title: "Sonne, Strand, Urlaub vom Urlaub für einen Tag"
 date: "2014-04-23"
-categories: 
+author: chrissi
+tags: 
   - "chile"
 coverImage: "20140615-211431-76471235.jpg"
 ---

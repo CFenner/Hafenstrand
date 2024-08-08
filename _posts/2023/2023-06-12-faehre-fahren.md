@@ -1,7 +1,8 @@
 ---
 title: "Fährfahrt"
 date: "2023-06-12"
-categories: 
+author: chrissi
+tags: 
   - "costa-rica"
 coverImage: "img_1551.jpg"
 ---

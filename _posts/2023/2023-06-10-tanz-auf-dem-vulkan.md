@@ -1,7 +1,8 @@
 ---
 title: "Tanz auf dem Vulkan"
 date: "2023-06-10"
-categories: 
+author: chrissi
+tags: 
   - "costa-rica"
 coverImage: "img_1414.jpg"
 ---

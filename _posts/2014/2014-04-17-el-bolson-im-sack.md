@@ -1,7 +1,8 @@
 ---
 title: "El Bolsón - Im Sack"
 date: "2014-04-17"
-categories: 
+author: chrissi
+tags: 
   - "argentinien"
 coverImage: "20140615-141157-51117254.jpg"
 ---

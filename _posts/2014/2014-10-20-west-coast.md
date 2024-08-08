@@ -1,7 +1,8 @@
 ---
 title: "West Coast"
 date: "2014-10-20"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_13272.jpg"
 ---

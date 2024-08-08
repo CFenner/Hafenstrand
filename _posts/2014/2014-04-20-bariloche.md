@@ -1,7 +1,8 @@
 ---
 title: "Bariloche"
 date: "2014-04-20"
-categories: 
+author: chrissi
+tags: 
   - "argentinien"
 coverImage: "20140615-155202-57122808.jpg"
 ---

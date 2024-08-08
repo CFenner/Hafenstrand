@@ -1,7 +1,8 @@
 ---
 title: "Pichilemu"
 date: "2014-05-05"
-categories: 
+author: chrissi
+tags: 
   - "chile"
 coverImage: "20140615-131900-47940074.jpg"
 ---

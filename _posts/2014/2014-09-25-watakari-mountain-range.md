@@ -1,7 +1,8 @@
 ---
 title: "Watakari Mountain Range"
 date: "2014-09-25"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "dscf5215-0.jpg"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "37 Tage Neuseeland..."
 date: "2014-10-27"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "dscf7272.jpg"
 ---

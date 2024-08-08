@@ -1,7 +1,8 @@
 ---
 title: "Santa Cruz"
 date: "2014-07-28"
-categories: 
+author: chrissi
+tags: 
   - "ecuador"
 coverImage: "20140725-193649-70609045.jpg"
 ---

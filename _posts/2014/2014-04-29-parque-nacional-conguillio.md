@@ -1,7 +1,8 @@
 ---
 title: "Parque Nacional Conguillio"
 date: "2014-04-29"
-categories: 
+author: chrissi
+tags: 
   - "chile"
 coverImage: "20140615-140850-50930987.jpg"
 ---

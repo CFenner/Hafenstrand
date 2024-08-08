@@ -1,7 +1,8 @@
 ---
 title: "Salar de Atacama und der Weg dort hin..."
 date: "2014-05-22"
-categories: 
+author: chrissi
+tags: 
   - "chile"
 coverImage: "20140615-145025-53425463.jpg"
 ---

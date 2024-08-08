@@ -1,7 +1,8 @@
 ---
 title: "Tokyo - Shibuya"
 date: "2017-11-14"
-categories: 
+author: chrissi
+tags: 
   - "japan"
 coverImage: "img_5276.jpg"
 ---

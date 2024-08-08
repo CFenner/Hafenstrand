@@ -1,7 +1,8 @@
 ---
 title: "Copacabana und Isla del Sol"
 date: "2014-06-10"
-categories: 
+author: chrissi
+tags: 
   - "bolivien"
 coverImage: "20140615-170659-61619194.jpg"
 ---

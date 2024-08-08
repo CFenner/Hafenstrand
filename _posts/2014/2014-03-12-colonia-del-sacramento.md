@@ -1,7 +1,8 @@
 ---
 title: "Colónia del Sacramento"
 date: "2014-03-12"
-categories: 
+author: chrissi
+tags: 
   - "uruguay"
 coverImage: "20140615-155840-57520087.jpg"
 ---

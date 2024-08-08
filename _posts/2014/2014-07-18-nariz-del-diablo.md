@@ -1,7 +1,8 @@
 ---
 title: "Nariz del Diablo"
 date: "2014-07-18"
-categories: 
+author: chrissi
+tags: 
   - "ecuador"
 coverImage: "20140719-143159-52319341.jpg"
 ---

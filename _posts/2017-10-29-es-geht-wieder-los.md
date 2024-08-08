@@ -6,7 +6,9 @@ date: 2017-10-29 15:00:00 +0100
 author: chrissi
 #image: '/images/16.jpg'
 #video_embed: https://www.youtube.com/embed/62bWUYRxi8g
-tags: [Neuseeland]
+author: chrissi
+tags:
+  - Neuseeland
 tags_color: '#835F46'
 ---
 Vor fast genau drei Jahren sind wir von unserer Südamerika-Ozeanien-Reise zurückgekehrt. Inzwischen haben wir drei Umzüge, zwei neue Jobs und eine Geburt hinter uns. Mit letzterem kommt sowas schönes wie Elternzeit einher. Und in diese geht es nun Anfang November!

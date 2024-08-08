@@ -1,7 +1,8 @@
 ---
 title: "Jaguar Rescue Center"
 date: "2023-06-06"
-categories: 
+author: chrissi
+tags: 
   - "costa-rica"
 coverImage: "img_1657.jpg"
 ---

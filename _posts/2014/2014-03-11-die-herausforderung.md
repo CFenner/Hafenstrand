@@ -1,7 +1,8 @@
 ---
 title: "Die Herausforderung"
 date: "2014-03-11"
-categories: 
+author: chrissi
+tags: 
   - "argentinien"
 ---
 

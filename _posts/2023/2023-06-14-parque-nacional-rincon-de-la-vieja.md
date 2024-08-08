@@ -1,7 +1,8 @@
 ---
 title: "Parque Nacional Rincón de la Vieja"
 date: "2023-06-14"
-categories: 
+author: chrissi
+tags: 
   - "costa-rica"
 coverImage: "img_4814.jpg"
 ---

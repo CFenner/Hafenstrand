@@ -1,7 +1,8 @@
 ---
 title: "Coromandel Peninsula"
 date: "2014-10-09"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "dscf6332-0.jpg"
 ---

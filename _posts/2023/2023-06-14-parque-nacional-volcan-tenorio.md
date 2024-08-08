@@ -1,7 +1,8 @@
 ---
 title: "Parque Nacional Volcán Tenorio"
 date: "2023-06-14"
-categories: 
+author: chrissi
+tags: 
   - "costa-rica"
 coverImage: "img_2135.jpg"
 ---

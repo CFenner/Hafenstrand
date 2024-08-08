@@ -1,7 +1,8 @@
 ---
 title: "Sonne, Sand und Surfbretter"
 date: "2014-07-03"
-categories: 
+author: chrissi
+tags: 
   - "peru"
 coverImage: "20140703-184304-67384048.jpg"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Queenstown und mehr"
 date: "2017-12-02"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_7145.jpg"
 ---

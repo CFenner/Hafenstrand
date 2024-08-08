@@ -1,7 +1,8 @@
 ---
 title: "Machu Picchu"
 date: "2014-06-18"
-categories: 
+author: chrissi
+tags: 
   - "peru"
 coverImage: "20140618-124734-46054029.jpg"
 ---

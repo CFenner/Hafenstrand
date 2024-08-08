@@ -1,7 +1,8 @@
 ---
 title: "Fiordland"
 date: "2017-12-03"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_7515.jpg"
 ---

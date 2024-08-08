@@ -1,7 +1,8 @@
 ---
 title: "Kaiteriteri"
 date: "2017-12-20"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_9102.jpg"
 ---

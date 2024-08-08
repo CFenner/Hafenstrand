@@ -1,7 +1,8 @@
 ---
 title: "Pelorus Mail Boat"
 date: "2017-12-30"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_9934-1.jpg"
 ---

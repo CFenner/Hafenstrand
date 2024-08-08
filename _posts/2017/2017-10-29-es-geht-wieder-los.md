@@ -1,7 +1,8 @@
 ---
 title: "Es geht wieder los.."
 date: "2017-10-29"
-categories: 
+author: chrissi
+tags: 
   - "heidelberg"
 coverImage: "img_5018.jpg"
 ---

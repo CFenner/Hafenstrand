@@ -1,7 +1,8 @@
 ---
 title: "Abel Tasman"
 date: "2017-12-21"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_9175.jpg"
 ---

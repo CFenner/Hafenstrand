@@ -1,7 +1,8 @@
 ---
 title: "Ushuaia - Puerto Natales"
 date: "2014-03-19"
-categories: 
+author: chrissi
+tags: 
   - "argentinien"
   - "chile"
 coverImage: "20140319-182802.jpg"

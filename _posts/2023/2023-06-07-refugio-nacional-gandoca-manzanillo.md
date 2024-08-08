@@ -1,7 +1,8 @@
 ---
 title: "Refugio Nacional Gandoca-Manzanillo"
 date: "2023-06-07"
-categories: 
+author: chrissi
+tags: 
   - "costa-rica"
 coverImage: "img_1003.jpg"
 ---

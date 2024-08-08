@@ -1,7 +1,8 @@
 ---
 title: "Ankunft in Feuerland"
 date: "2014-03-13"
-categories: 
+author: chrissi
+tags: 
   - "argentinien"
 coverImage: "20140615-133950-49190814.jpg"
 ---

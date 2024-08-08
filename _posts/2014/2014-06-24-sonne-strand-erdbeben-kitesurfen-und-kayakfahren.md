@@ -1,7 +1,8 @@
 ---
 title: "Sonne, Strand, Erdbeben, Kitesurfen und Kayakfahren"
 date: "2014-06-24"
-categories: 
+author: chrissi
+tags: 
   - "peru"
 coverImage: "20140624-105054-39054911.jpg"
 ---

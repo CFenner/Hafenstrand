@@ -1,7 +1,8 @@
 ---
 title: "Ein Mensch sammelt in seinem Leben 10.000 Dinge..."
 date: "2014-02-27"
-categories: 
+author: chrissi
+tags: 
   - "hamburg"
 coverImage: "20140615-160228-57748584.jpg"
 ---

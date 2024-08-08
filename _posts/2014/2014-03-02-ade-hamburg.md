@@ -1,7 +1,8 @@
 ---
 title: "Ade Hamburg"
 date: "2014-03-02"
-categories: 
+author: chrissi
+tags: 
   - "hamburg"
 coverImage: "20140615-145209-53529909.jpg"
 ---

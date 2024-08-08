@@ -1,7 +1,8 @@
 ---
 title: "Neue Bilder.."
 date: "2014-06-15"
-categories: 
+author: chrissi
+tags: 
   - "peru"
 ---
 

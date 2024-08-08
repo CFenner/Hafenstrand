@@ -1,7 +1,8 @@
 ---
 title: "Tokyo - Ginza"
 date: "2017-11-16"
-categories: 
+author: chrissi
+tags: 
   - "japan"
 coverImage: "img_5532.jpg"
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Santiago &amp; Valparaíso"
 date: "2014-05-03"
-categories: 
+author: chrissi
+tags: 
   - "chile"
 coverImage: "20140615-132655-48415727.jpg"
 ---

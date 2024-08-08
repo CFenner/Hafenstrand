@@ -1,7 +1,8 @@
 ---
 title: "Pelorus Bridge"
 date: "2017-12-29"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_9670-1.jpg"
 ---

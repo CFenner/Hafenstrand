@@ -1,7 +1,8 @@
 ---
 title: "Parque Nacional Las Glaciares"
 date: "2014-03-31"
-categories: 
+author: chrissi
+tags: 
   - "argentinien"
 coverImage: "20140615-150445-54285483.jpg"
 ---

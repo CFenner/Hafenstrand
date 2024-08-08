@@ -1,7 +1,8 @@
 ---
 title: "Hallo Neuseeland"
 date: "2017-11-27"
-categories: 
+author: chrissi
+tags: 
   - "neuseeland"
 coverImage: "img_6544.jpg"
 ---

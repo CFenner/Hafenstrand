@@ -1,7 +1,8 @@
 ---
 title: "Parque National Cahuita"
 date: "2023-06-08"
-categories: 
+author: chrissi
+tags: 
   - "costa-rica"
 coverImage: "img_4599-1.jpg"
 ---

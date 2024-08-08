@@ -1,7 +1,8 @@
 ---
 title: "San Cristóbal"
 date: "2014-07-24"
-categories: 
+author: chrissi
+tags: 
   - "ecuador"
 coverImage: "20140723-190523-68723181.jpg"
 ---

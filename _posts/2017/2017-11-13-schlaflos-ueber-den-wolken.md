@@ -1,7 +1,8 @@
 ---
 title: "Schlaflos über den Wolken"
 date: "2017-11-13"
-categories: 
+author: chrissi
+tags: 
   - "japan"
 coverImage: "img_5085.jpg"
 ---

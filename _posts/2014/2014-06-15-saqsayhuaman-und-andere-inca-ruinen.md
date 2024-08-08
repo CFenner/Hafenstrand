@@ -1,7 +1,8 @@
 ---
 title: "Saqsayhuaman und andere Inka Ruinen"
 date: "2014-06-15"
-categories: 
+author: chrissi
+tags: 
   - "peru"
 coverImage: "20140615-124932-46172950.jpg"
 ---
