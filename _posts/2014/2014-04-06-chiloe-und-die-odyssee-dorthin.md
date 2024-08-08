@@ -17,30 +17,30 @@ Am nächsten Tag ging es bequem und schnell im Bus, der uns am Campingplatz abho
 
 Mit der 30-Stunden-Fähre überquerten wir die wunderschöne Fjordlandschaft vor Chiloé, einem Ort an dem es 350 Tage im Jahr regnen sollte.
 
-![20140409-183408.jpg](images/20140409-183408.jpg)
+![20140409-183408.jpg](/images/2014/20140409-183408.jpg)
 
-![20140409-175343.jpg](images/20140409-175343.jpg)
+![20140409-175343.jpg](/images/2014/20140409-175343.jpg)
 
-![20140409-175508.jpg](images/20140409-175508.jpg)
+![20140409-175508.jpg](/images/2014/20140409-175508.jpg)
 
 Ausflug mit Übernachtung in den Parque Anhuenco, endlich am Meer! Endlich eine Übernachtung ohne nächtliches Hundegebell.
 
-![20140409-175254.jpg](images/20140409-175254.jpg)
+![20140409-175254.jpg](/images/2014/20140409-175254.jpg)
 
-![20140409-175303.jpg](images/20140409-175303.jpg)
+![20140409-175303.jpg](/images/2014/20140409-175303.jpg)
 
-![20140409-183412.jpg](images/20140409-183412.jpg)
+![20140409-183412.jpg](/images/2014/20140409-183412.jpg)
 
-![20140409-175818.jpg](images/20140409-175818.jpg)
+![20140409-175818.jpg](/images/2014/20140409-175818.jpg)
 
-![20140409-175308.jpg](images/20140409-175308.jpg)
+![20140409-175308.jpg](/images/2014/20140409-175308.jpg)
 
-![20140409-175320.jpg](images/20140409-175320.jpg)
+![20140409-175320.jpg](/images/2014/20140409-175320.jpg)
 
-![20140409-181103.jpg](images/20140409-181103.jpg) Der Vogel hopste hin und her und ließ uns nicht über die Brücke.
+![20140409-181103.jpg](/images/2014/20140409-181103.jpg) Der Vogel hopste hin und her und ließ uns nicht über die Brücke.
 
-![20140409-175314.jpg](images/20140409-175314.jpg)
+![20140409-175314.jpg](/images/2014/20140409-175314.jpg)
 
-![20140409-175338.jpg](images/20140409-175338.jpg)
+![20140409-175338.jpg](/images/2014/20140409-175338.jpg)
 
-![20140409-183353.jpg](images/20140409-183353.jpg)
+![20140409-183353.jpg](/images/2014/20140409-183353.jpg)

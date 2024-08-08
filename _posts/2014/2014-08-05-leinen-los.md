@@ -17,6 +17,6 @@ Dann werden wir uns auf relativ engen Raum mit relativ unbekannten Menschen auf 
 
 Wir werden berichten, ob wir uns dieses Abenteuer zu rosarot oder gar zu spannend ausgemalt haben.
 
-![20140804-220228-79348927.jpg](images/20140804-220228-79348927.jpg) Unser zukünftiges zu Hause auf einem Rumpf: SY Elessar
+![20140804-220228-79348927.jpg](/images/2014/20140804-220228-79348927.jpg) Unser zukünftiges zu Hause auf einem Rumpf: SY Elessar
 
 Voraussichtlich drei Wochen später werden wir auf dem nächsten Kontinent landen: Ozeanien. Wir planen zunächst eine Fortsetzung der Fahrt unter Segeln durch Französisch-Polynesien, entlang einmalig schöner Vulkaninseln und Atolle, dann ausgiebiges Surfen, Kiten und Wandern in Neuseeland und hinterher noch ein paar Tage Großstadtaufenthalt in Sydney, vielleicht werden wir einen Abstecher nach Tasmanien oder Fidschi machen. Wir werden sehen.

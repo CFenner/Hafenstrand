@@ -22,30 +22,30 @@ Die Bolivientour, die eigentlich den Besuch des genannten Nationalparks beinhalt
 
 Fotos der Jeeptour
 
-![20140527-075502-28502495.jpg](images/20140527-075502-28502495.jpg) Llamas
+![20140527-075502-28502495.jpg](/images/2014/20140527-075502-28502495.jpg) Llamas
 
-![20140527-075503-28503596.jpg](images/20140527-075503-28503596.jpg) Vulkan
+![20140527-075503-28503596.jpg](/images/2014/20140527-075503-28503596.jpg) Vulkan
 
-![20140527-075501-28501423.jpg](images/20140527-075501-28501423.jpg)
+![20140527-075501-28501423.jpg](/images/2014/20140527-075501-28501423.jpg)
 
-![20140527-075459-28499808.jpg](images/20140527-075459-28499808.jpg) Kaktusinsel
+![20140527-075459-28499808.jpg](/images/2014/20140527-075459-28499808.jpg) Kaktusinsel
 
-![20140527-075507-28507494.jpg](images/20140527-075507-28507494.jpg) Salar de Uyuni
+![20140527-075507-28507494.jpg](/images/2014/20140527-075507-28507494.jpg) Salar de Uyuni
 
-![20140529-145638-53798889.jpg](images/20140529-145638-53798889.jpg) Trampeltier
+![20140529-145638-53798889.jpg](/images/2014/20140529-145638-53798889.jpg) Trampeltier
 
-![20140527-075508-28508922.jpg](images/20140527-075508-28508922.jpg)
+![20140527-075508-28508922.jpg](/images/2014/20140527-075508-28508922.jpg)
 
-![20140528-221103-79863828.jpg](images/20140528-221103-79863828.jpg) Cementerio de trenes
+![20140528-221103-79863828.jpg](/images/2014/20140528-221103-79863828.jpg) Cementerio de trenes
 
-![20140527-075506-28506393.jpg](images/20140527-075506-28506393.jpg) Flamingos
+![20140527-075506-28506393.jpg](/images/2014/20140527-075506-28506393.jpg) Flamingos
 
-![20140528-094040-34840764.jpg](images/20140528-094040-34840764.jpg) Dakar 2014
+![20140528-094040-34840764.jpg](/images/2014/20140528-094040-34840764.jpg) Dakar 2014
 
 Am Ende der Tour setzten wir die Zahnärzte im 100-Dollar Salzhotel mit fließend Warmwasser und Kamin (Luxus!!!) ab und übernachteten selbst im einfachen Hostel in Uyuni. Der am Duschkopf angebrachte Durchlauferhitzer, von dessen freiliegenden Stromkabeln das Wasser tropfte, funktionierte (Gott sei Dank?) nicht. Erfroren (-9 Grad) verließen wir das nicht besonders einladend wirkte Uyuni gleich am nächsten Morgen per Bus. Nächster Stopp: Sucre!
 
 Während ich die schöne Aussicht aus dem Bus ins bolivianische Hochland genieße und Chrissi neben mir eingepfercht zwischen eigenem, Nachbar- und Vordersitz schläft, hoffe ich auf schöne ruhige Tage in Sucre und vor allem auf eine heiße Dusche. Die Temperatur wechselt rasant schnell mit Kommen und Gehen der Sonne.
 
-![20140529-160455-57895841.jpg](images/20140529-160455-57895841.jpg) Vicuñas
+![20140529-160455-57895841.jpg](/images/2014/20140529-160455-57895841.jpg) Vicuñas
 
 PS: Wir versuchen jetzt seit einer Woche Bilder hochzuladen, aber das Internet ist in Bolivien so schlecht, dass wir es jetzt aufgeben. Wir würden gern mehr zeigen :)

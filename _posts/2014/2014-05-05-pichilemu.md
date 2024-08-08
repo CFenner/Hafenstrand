@@ -11,4 +11,4 @@ In Pichilemu, einem Surferort, wollten wir eine Woche Strandurlaub machen. Wir k
 
 Wellen in Pichilemu: http://vimeo.com/94710593
 
-![20140511-185701.jpg](images/20140511-185701.jpg)](https://hafenstrand.wordpress.com/wp-content/uploads/2014/05/20140511-185701.jpg)[![20140511-185714.jpg](images/20140511-185714.jpg)](https://hafenstrand.wordpress.com/wp-content/uploads/2014/05/20140511-185714.jpg)[![20140511-185727.jpg](images/20140511-185727.jpg)
+![20140511-185701.jpg](/images/2014/20140511-185701.jpg)](https://hafenstrand.wordpress.com/wp-content/uploads/2014/05/20140511-185701.jpg)[![20140511-185714.jpg](/images/2014/20140511-185714.jpg)](https://hafenstrand.wordpress.com/wp-content/uploads/2014/05/20140511-185714.jpg)[![20140511-185727.jpg](/images/2014/20140511-185727.jpg)

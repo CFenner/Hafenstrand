@@ -13,10 +13,10 @@ Da uns Neuseeland das letzte mal so gut gefallen hat, haben wir beschlossen unse
 
 Von dem Rucksackhersteller unseres Vertrauen haben wir uns deshalb ein Kraxe (schlimmes Wort) besorgt. So können wir Kind und Kegel gut auf dem Rücken tragen.
 
-![IMG_5016](images/img_5016.jpg)
+![IMG_5016](/images/2017/img_5016.jpg)
 
 Da Neuseeland so ziemlich der am weitesten entfernte Ort von Heidelberg (unserer neuen Heimat) ist -- ca. 28 bis 48 Stunden je nach Zwischenstop -- haben wir uns für einen Halt in Tokyo entschieden. Ok, das liegt nicht auf der üblichen Route, aber Franzi wollte schon immer mal nach Japan. Wir sind also 5 Tage in Tokyo und 5 in Kyoto bevor es dann endlich über Auckland nach Christchurch geht.
 
 So langsam realisieren wir, dass es noch ca. zwei Wochen sind, bis wir in den Flieger steigen und wieder auf große Fahrt gehen. Die Planung läuft auf Hochtouren, wenn wir nicht gerade Tom bespaßen, also hauptsächlich zwischen 21 und 22 Uhr.
 
-![IMG_5018.JPG](images/img_5018.jpg)
+![IMG_5018.JPG](/images/2017/img_5018.jpg)
