@@ -1,7 +1,7 @@
 ---
 title: "Auf Wiedersehen!"
 date: "2014-03-04"
-author: chrissi
+author: franzi
 tags: 
   - "hamburg"
 coverImage: "20140615-160350-57830220.jpg"

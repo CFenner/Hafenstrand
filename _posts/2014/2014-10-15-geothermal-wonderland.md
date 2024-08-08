@@ -1,7 +1,7 @@
 ---
 title: "Geothermal Wonderland"
 date: "2014-10-15"
-author: chrissi
+author: franzi
 tags: 
   - "neuseeland"
 coverImage: "dscf7138.jpg"

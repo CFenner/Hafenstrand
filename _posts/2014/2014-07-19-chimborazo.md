@@ -1,7 +1,7 @@
 ---
 title: "Chimborazo"
 date: "2014-07-19"
-author: chrissi
+author: franzi
 tags: 
   - "ecuador"
 coverImage: "20140719-151113-54673880.jpg"

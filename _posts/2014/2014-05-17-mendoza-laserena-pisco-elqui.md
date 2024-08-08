@@ -1,7 +1,7 @@
 ---
 title: "Mendoza, La Serena, Valle Elqui"
 date: "2014-05-17"
-author: chrissi
+author: franzi
 tags: 
   - "argentinien"
   - "chile"
