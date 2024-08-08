@@ -4,7 +4,7 @@ date: "2014-05-19"
 author: chrissi
 tags: 
   - "chile"
-image "20140615-132053-48053800.jpg"
+image: "20140615-132053-48053800.jpg"
 ---
 
 Ich bin zur Zeit allein mit einer Reisegruppe unterwegs nach San Pedro, Franzi nimmt den direkten Weg im Nachtbus, ich einen etwas längeren.

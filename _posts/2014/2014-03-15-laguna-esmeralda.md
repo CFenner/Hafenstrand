@@ -4,7 +4,7 @@ date: "2014-03-15"
 author: chrissi
 tags: 
   - "argentinien"
-image "20140615-152639-55599065.jpg"
+image: "20140615-152639-55599065.jpg"
 ---
 
 Oder: Wie wir fast einen Gletscher gesehen hätten.

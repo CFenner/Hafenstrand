@@ -4,7 +4,7 @@ date: "2023-06-06"
 author: chrissi
 tags: 
   - "costa-rica"
-image "img_1657.jpg"
+image: "img_1657.jpg"
 ---
 
 Das _Jaguar Rescue Center_ in _Puerto Viejo_ wurde 2008 von zwei Biologen gegründet, die damals einen verletzten Ozelot (keinen Jaguar) aufgenommen gepflegt und wieder ausgewildert haben. Seitdem ist dieser Ort eine Anlaufstelle für Menschen, die verletzte wilde Tiere finden. Einige von ihnen können nicht wieder ausgewildert werden und sind permanente Bewohner des Centers und können von uns mit einem Guide angeschaut werden. Täglich gibt es hier Touren für Touristen wie uns aber auch Schulklassen um ihnen den richtigen Umgang mit Wildtieren beizubringen.

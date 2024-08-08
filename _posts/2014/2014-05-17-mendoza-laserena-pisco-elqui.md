@@ -5,7 +5,7 @@ author: franzi
 tags: 
   - "argentinien"
   - "chile"
-image "20140615-151536-54936188.jpg"
+image: "20140615-151536-54936188.jpg"
 ---
 
 **Mendoza**

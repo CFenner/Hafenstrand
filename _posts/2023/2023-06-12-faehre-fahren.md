@@ -4,7 +4,7 @@ date: "2023-06-12"
 author: chrissi
 tags: 
   - "costa-rica"
-image "img_1551.jpg"
+image: "img_1551.jpg"
 ---
 
 Vom _Vulcán Irazú_ aus fahren wir Richtung _San José_ und weiter zur Westküste. Wir wollen von _Puntarenas_ eine Fähre auf die Halbinsel _Nicoya_ nehmen, wo es die schönsten Strände geben soll. Unterwegs machen wir noch einen Abstecher zur _Krokodile Bridge_, eine Autobahnbrücke unter der man Krokodile beobachten kann. Es ist sehr touristisch und voll und wir verschwinden schnell wieder.

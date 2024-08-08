@@ -4,7 +4,7 @@ date: "2014-10-27"
 author: chrissi
 tags: 
   - "neuseeland"
-image "dscf7272.jpg"
+image: "dscf7272.jpg"
 ---
 
 ... und wir ziehen folgendes Resümee:

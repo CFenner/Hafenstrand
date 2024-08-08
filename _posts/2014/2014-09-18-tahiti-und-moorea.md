@@ -4,7 +4,7 @@ date: "2014-09-18"
 author: chrissi
 tags: 
   - "fr-polynesien"
-image "dscf4992.jpg"
+image: "dscf4992.jpg"
 ---
 
 Wir waren einige Tage auf Tahiti aber die Hauptstadt Pape'ete selbst war nicht so schön. Im Süden in Paea gefiel es uns besser, dort trafen wir einen Hamburger, der uns die Nachbarinsel Moorea empfahl.

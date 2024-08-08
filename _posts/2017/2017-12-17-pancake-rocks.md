@@ -4,7 +4,7 @@ date: "2017-12-17"
 author: chrissi
 tags: 
   - "neuseeland"
-image "img_8954.jpg"
+image: "img_8954.jpg"
 ---
 
 Auf unserem Weg an der Westküste entlang kommen wir an den _Pancake Rocks_ vorbei, einer der Hauptattraktionen in dieser Region. In der felsigen Küste sind hier die unterschiedlichen Felsschichten sehr schön zu erkennen, sodass die Felsen wie gestapelte Pfannkuchen aussehen.

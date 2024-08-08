@@ -4,7 +4,7 @@ date: "2023-06-04"
 author: chrissi
 tags: 
   - "costa-rica"
-image "img_0749.jpg"
+image: "img_0749.jpg"
 ---
 
 Wir sind auf dem Weg Richtung Karibik. Da wir diesmal das Zelt etwas früher aufstellen wollen, sind wir früh zu einem Campingplatz unterwegs, an dem man auch in einem Fluss baden können soll.

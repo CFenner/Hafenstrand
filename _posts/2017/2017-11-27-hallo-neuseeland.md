@@ -4,7 +4,7 @@ date: "2017-11-27"
 author: chrissi
 tags: 
   - "neuseeland"
-image "img_6544.jpg"
+image: "img_6544.jpg"
 ---
 
 Wir sitzen gerade mit Auto und Zelt direkt am _Lake Pukaki_ mit Blick auf die _Southern Alps_ und warten, dass die Nachmittagssonne nachlässt_._ Tom spielt im Aufenthaltsraum des Campingplatzes und es gibt freies WiFi, perfekte Zeit zum Schreiben. Hier also eine kurze Zusammenfassung der vergangenen Tage.

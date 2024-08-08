@@ -4,7 +4,7 @@ date: "2017-12-29"
 author: chrissi
 tags: 
   - "neuseeland"
-image "img_9670-1.jpg"
+image: "img_9670-1.jpg"
 ---
 
 Auf unserem Weg nach _Havelock_ machen wir einen kurzen Zwischenstopp bei _Pelorus Bridge_. Hier überquert der _State Highway 6_ den _Pelorus River_, der später in den _Pelorus Sound_ mündet. Auf der Karte sieht es aus wie ein Ort, besteht aber in Wirklichkeit nur aus der Brücke, einem Café und einem Campingplatz.

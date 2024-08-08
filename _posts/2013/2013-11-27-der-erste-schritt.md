@@ -4,7 +4,7 @@ date: "2013-11-27"
 author: chrissi
 tags: 
   - "hamburg"
-image "/image/2013/20140615-145407-53647003.jpg"
+image: "/image/2013/20140615-145407-53647003.jpg"
 ---
 
 ![Küche](images/2013/2013-11-20-02-35-22-hdr.jpg)

@@ -4,7 +4,7 @@ date: "2023-06-07"
 author: chrissi
 tags: 
   - "costa-rica"
-image "img_1003.jpg"
+image: "img_1003.jpg"
 ---
 
 Von _Punta Uva_ aus fahren wir einen Ort weiter nach _Manzanillo_. Als wir am Strand eine Heroin Spritze 💉 finden, beschließen wir diesen besser auszulassen. Hier ist aber auch ein Nationalpark, _Refugio Nacional Gandoca-Manzanillo_, den wir stattdessen anschauen.

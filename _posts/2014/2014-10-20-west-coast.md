@@ -4,7 +4,7 @@ date: "2014-10-20"
 author: chrissi
 tags: 
   - "neuseeland"
-image "img_13272.jpg"
+image: "img_13272.jpg"
 ---
 
 Vom Geothermal Wonderland fahren wir über den _Forgotten World Highway_ zur Westküste der Nordinsel. Zu Beginn entdecken wir _Lauren's Lavender Farm_, ein lauschiges Plätzchen am Fluss. Ansonsten treffen wir nur noch einen Ziegenbock. Vielleicht heißt diese Straße deshalb "Forgotten World Highway".

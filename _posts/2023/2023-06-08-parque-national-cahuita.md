@@ -4,7 +4,7 @@ date: "2023-06-08"
 author: chrissi
 tags: 
   - "costa-rica"
-image "img_4599-1.jpg"
+image: "img_4599-1.jpg"
 ---
 
 Auf dem Rückweg aus der Karibik machen wir einen Halt am Nationalpark _Cahuita_. Hier gibt es einen Weg auf Holzplanken durch den Wald, wir können also den Kinderwagen mitnehmen.

@@ -4,7 +4,7 @@ date: "2014-03-31"
 author: chrissi
 tags: 
   - "argentinien"
-image "20140615-150445-54285483.jpg"
+image: "20140615-150445-54285483.jpg"
 ---
 
 El Calafate

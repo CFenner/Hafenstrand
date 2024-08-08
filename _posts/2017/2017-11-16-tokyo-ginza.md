@@ -4,7 +4,7 @@ date: "2017-11-16"
 author: chrissi
 tags: 
   - "japan"
-image "img_5532.jpg"
+image: "img_5532.jpg"
 ---
 
 Heute waren wir im Shoppingviertel Ginza, sowas wie der _Neue Wall_ von Tokyo nur 100x größer. Wir waren schon um halb 9 in der Bahn und heute war dort das Bild etwas anders: Diesmal war nur noch die Hälfte der Leute am Handy, die andere Hälfte war am schlafen.
