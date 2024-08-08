@@ -1,12 +1,11 @@
 ---
 username: chrissi
-name: Christopher Fenner
-image: 'https://avatars.githubusercontent.com/u/9592452?v=4'
+name: Christopher
+image: 'https://gravatar.com/avatar/eea3acdbbbbc1bb34de2e59320f0608e?size=512'
 cover:
 location: Hamburg, Germany
 #website: https://www.google.com
 #twitter: https://twitter.com
-github: https://github.com/cfenner/
 vimeo: https://vimeo.com/user13411725
 ---
 Dad, Developer, Surfer
