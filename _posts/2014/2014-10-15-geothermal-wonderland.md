@@ -4,7 +4,7 @@ date: "2014-10-15"
 author: franzi
 tags: 
   - "neuseeland"
-coverImage: "dscf7138.jpg"
+image "dscf7138.jpg"
 ---
 
 Der State Highway 5 führt entlang einer geothermal-aktiven Zone, die sich durch die gesamte Nordinsel zieht. Er trägt auch den Namen _Thermal Explorer Highway_. Wir fuhren das Stück zwischen _Rotorua_ und _Taupō_ ab und haben in drei Tagen sechs heiße Quellen besucht, was für eine Wohltat!

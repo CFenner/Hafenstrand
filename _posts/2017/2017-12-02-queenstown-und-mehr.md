@@ -4,7 +4,7 @@ date: "2017-12-02"
 author: chrissi
 tags: 
   - "neuseeland"
-coverImage: "img_7145.jpg"
+image "img_7145.jpg"
 ---
 
 Tag 1 - Anfahrt

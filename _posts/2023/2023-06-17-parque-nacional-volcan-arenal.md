@@ -4,7 +4,7 @@ date: "2023-06-17"
 author: chrissi
 tags: 
   - "costa-rica"
-coverImage: "img_4959.jpg"
+image "img_4959.jpg"
 ---
 
 Der Campingplatz gefällt uns so gut, dass wir planen noch eine Nacht zu bleiben.

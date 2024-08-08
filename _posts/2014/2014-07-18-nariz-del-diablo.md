@@ -4,7 +4,7 @@ date: "2014-07-18"
 author: chrissi
 tags: 
   - "ecuador"
-coverImage: "20140719-143159-52319341.jpg"
+image "20140719-143159-52319341.jpg"
 ---
 
 In Máncora ist leider unsere wasserdichte Kamera in den Wellen kaputt gegangen, deshalb gibt es auch weniger Fotos.

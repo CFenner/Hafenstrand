@@ -4,7 +4,7 @@ date: "2023-06-16"
 author: chrissi
 tags: 
   - "costa-rica"
-coverImage: "img_2207.jpg"
+image "img_2207.jpg"
 ---
 
 Wir stehen um 5 Uhr (mit dem Sonnenaufgang) auf um früh an unserem nächsten Ziel zu sein, dem _Arenal Hanging Bridge Park_.

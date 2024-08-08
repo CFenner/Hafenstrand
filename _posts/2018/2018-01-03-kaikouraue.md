@@ -4,7 +4,7 @@ date: "2018-01-03"
 author: chrissi
 tags: 
   - "neuseeland"
-coverImage: "img_0216.jpg"
+image "img_0216.jpg"
 ---
 
 Wir wollten eigentlich am Anfang unserer Reise nach _Kaikoura_ fahren, aber durch eine Reihe von Erdbeben Ende 2016 wurde _Kaikoura_ von der Außenwelt komplett abschnitten. Die Reparaturen des Highways nördlich und südlich von _Kaikoura_ sowie der Eisenbahnlinie dauern bis heute an.

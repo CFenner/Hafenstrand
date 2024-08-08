@@ -4,7 +4,7 @@ date: "2017-11-13"
 author: franzi
 tags: 
   - "japan"
-coverImage: "img_5085.jpg"
+image "img_5085.jpg"
 ---
 
 Eine Woche vor Abflug legen wir die Dinge, die wir mitnehmen möchten, weitestgehend bereit und verstauen sie in den vorgesehenen Gepäckstücken. Viel darf es nicht sein. Da wir später auf unserer Reise in Neuseeland im Zelt übernachten wollen, nehmen drei Schlafsäcke und drei Isomatten schon den meisten Stauraum ein. Der restliche Kram passt auch rein. Wir sind bereit.

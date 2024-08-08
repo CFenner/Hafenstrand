@@ -4,7 +4,7 @@ date: "2023-06-10"
 author: chrissi
 tags: 
   - "costa-rica"
-coverImage: "img_1309.jpg"
+image "img_1309.jpg"
 ---
 
 Nach der Karibik Küste wollen wir auf die andere Seite von Costa Rica. Also einmal über die Vía 32 & Vía 10 zurück nach _Puerto Limón_ und _San José_ nach P_untarenas._ Hinter _Puerto Viejo_ tanken wir das erste mal.. habe ich erwähnt, dass unsere Kiste 18,5 Liter auf 100 km schluckt?

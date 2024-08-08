@@ -4,7 +4,7 @@ date: "2014-03-17"
 author: chrissi
 tags: 
   - "argentinien"
-coverImage: "20140615-133630-48990931.jpg"
+image "20140615-133630-48990931.jpg"
 ---
 
 Am Samstag gingen wir an Bord der Paludine, einer 10t Stahlsegelyacht, um den Beagle Channel mit dem Boot zu erkunden. Wir waren etwas spät dran und mussten uns noch schnell Tickets für die Hafenmole besorgen. Am Abend vorher hatten mindestens 8 Großsegel im Hafen angelegt, aber trotzdem waren nicht viele Besucher da und wir kamen schnell an die Tickets.  

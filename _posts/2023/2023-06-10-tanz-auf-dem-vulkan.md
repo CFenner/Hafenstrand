@@ -4,7 +4,7 @@ date: "2023-06-10"
 author: chrissi
 tags: 
   - "costa-rica"
-coverImage: "img_1414.jpg"
+image "img_1414.jpg"
 ---
 
 Als wir morgens am Camping _Hacienda La Central_ aufwachen werden wir mit einem wolkenfreien Ausblick auf den _Vulcán Turrialba_ und _Vulcán Irazú_ begrüßt. Die Nacht in dieser Höhe war tatsächlich recht kalt und wir haben mit Pullis und Wolldecken geschlafen. Aber sobald die Sonne da ist, wird es schnell warm, allerdings angenehme 18-19 grad anstatt 32.

@@ -4,7 +4,7 @@ date: "2023-06-14"
 author: chrissi
 tags: 
   - "costa-rica"
-coverImage: "img_2135.jpg"
+image "img_2135.jpg"
 ---
 
 Die letzte Nacht war sehr regnerisch und unser Zelt muss erstmal richtig trocknen.

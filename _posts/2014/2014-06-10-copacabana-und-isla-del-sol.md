@@ -4,7 +4,7 @@ date: "2014-06-10"
 author: chrissi
 tags: 
   - "bolivien"
-coverImage: "20140615-170659-61619194.jpg"
+image "20140615-170659-61619194.jpg"
 ---
 
 [![20140615-180159-64919754.jpg](images/20140615-180159-64919754.jpg)](https://hafenstrand.wordpress.com/wp-content/uploads/2014/06/20140615-180159-64919754.jpg) Unser Bootsführer nach Copacabana

@@ -4,7 +4,7 @@ date: "2017-12-21"
 author: chrissi
 tags: 
   - "neuseeland"
-coverImage: "img_9175.jpg"
+image "img_9175.jpg"
 ---
 
 Unsere Bootstour in dem _Abel Tasman National Park_ startet schon um 9 Uhr mit einem Wassertaxi am Strand. Nicht viel Zeit um das Zelt zu packen, Frühstück und Mittagessen vorzubereiten und unsere Tickets abzuholen. Nebenbei muss natürlich noch Tom bei Laune gehalten werden, aber alles kein Problem.

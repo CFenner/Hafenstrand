@@ -4,7 +4,7 @@ date: "2014-09-28"
 author: chrissi
 tags: 
   - "neuseeland"
-coverImage: "dscf5666.jpg"
+image "dscf5666.jpg"
 ---
 
 Wir fahren weiter Richtung Norden zum Cape Reinga. Dabei kommen wir durch den _Whangarei District_ wo es einige Höhlen zu erforschen gibt.

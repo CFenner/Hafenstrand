@@ -4,7 +4,7 @@ date: "2014-07-03"
 author: chrissi
 tags: 
   - "peru"
-coverImage: "20140703-184304-67384048.jpg"
+image "20140703-184304-67384048.jpg"
 ---
 
 Gestern sind wir in Máncora angekommen, die Fahrt war wie erwartet sehr unbequem und ich hab wieder nur wenige Stunden geschlafen. In Máncora gab es ein Hostel von der selbe Kette wie in Parácas und weil es uns dort so gut gefallen hatte checkten wir dort ein. Leider bekamen wir es dort mal wieder mit der Unfreundlichkeit der Peruaner zu tun.

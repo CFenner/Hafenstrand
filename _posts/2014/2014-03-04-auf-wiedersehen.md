@@ -4,7 +4,7 @@ date: "2014-03-04"
 author: franzi
 tags: 
   - "hamburg"
-coverImage: "20140615-160350-57830220.jpg"
+image "20140615-160350-57830220.jpg"
 ---
 
 Abschied in Hamburg [![20140304-192400.jpg](images/20140304-192400.jpg)](https://hafenstrand.wordpress.com/wp-content/uploads/2014/03/20140304-192400.jpg)

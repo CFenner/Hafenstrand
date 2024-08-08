@@ -4,7 +4,7 @@ date: "2017-12-30"
 author: chrissi
 tags: 
   - "neuseeland"
-coverImage: "img_9934-1.jpg"
+image "img_9934-1.jpg"
 ---
 
 Wir sind in _Havelock_, dort wo der _Pelorus River_ in den _Pelorus Sound_ mündet. Der _Pelorus Sound_ ist der größte der vier Sounds in der _Marlborough_ Region. Hier gibt es viele versteckte Buchten, die teilweise keine Telefon, Strom oder Straßenanbindung haben. Hier ist also öfter mal der Wasserweg die einzige Verbindung mit der Außenwelt und der einzige Weg für Vorräte. Von _Havelock_ aus fährt ein Schiff mehrmals die Woche in den Sound, das ursprünglich die Post und Anderes in den Buchten verteilt, heutzutage aber auch Touristen mitnimmt.

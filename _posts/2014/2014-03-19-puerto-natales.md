@@ -4,7 +4,7 @@ date: "2014-03-19"
 author: chrissi
 tags: 
   - "chile"
-coverImage: "20140615-155623-57383213.jpg"
+image "20140615-155623-57383213.jpg"
 ---
 
 Wir sind in Puerto Natales und packen gerade die Rucksäcke für den _Parque Nacional Torres del Paine_. Hier gießt es in Strömen und wir haben schon Bekanntschaft mit den patagonischen Winden gemacht..ich hoffe das Zelt hält.  

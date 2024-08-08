@@ -4,7 +4,7 @@ date: "2014-04-29"
 author: chrissi
 tags: 
   - "chile"
-coverImage: "20140615-140850-50930987.jpg"
+image "20140615-140850-50930987.jpg"
 ---
 
 Wir hatten die Empfehlung bekommen, umbedingt den Nationalpark Conguillio zu besuchen, weil dies einer der Beste in Chile sein sollte. Das war leider nicht ganz so einfach. Da ja schon Nebensaison war, wussten wir nicht ob die Busse noch fahren und konnten wegen der schlechten Spanischkenntnisse auch nicht bei der Parkverwaltung anrufen. Also fuhren wir einfach drauf los und nach einem Zwischenstopp in Temuco und einer etwas längeren Suche nach dem richtigen Terminal für den Anschlussbus (jedes Busunternehmen hat sein eigenes oder mehrere Terminals) kamen wir nachmittags in Melipeuco an. [![20140502-183112.jpg](images/20140502-183112.jpg)](https://hafenstrand.wordpress.com/wp-content/uploads/2014/05/20140502-183112.jpg) Dampfmaschine in Melipeuco

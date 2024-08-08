@@ -4,7 +4,7 @@ date: "2014-06-19"
 author: chrissi
 tags: 
   - "peru"
-coverImage: "20140624-100733-36453990.jpg"
+image "20140624-100733-36453990.jpg"
 ---
 
 Beim zweiten Versuch lief es besser, der Aufstieg war bei der Höhe wieder anstrengend aber es lohnte sich.
