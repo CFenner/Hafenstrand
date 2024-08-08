@@ -4,7 +4,7 @@ date: "2014-07-24"
 author: chrissi
 tags: 
   - "ecuador"
-image: "/image/2014/20140723-190523-68723181.jpg"
+image: "/images/2014/20140723-190523-68723181.jpg"
 ---
 
 Tag 1 Gestern sind wir auf der Insel San Cristóbal der Galápagos Inselgruppe angekommen. Nach der Landung wurde unser Gepäck nochmal von Hunden durchsucht, damit wir auch keine fremden Pflanzen oder Tier einschleppten. Der Flughafen war nicht so weit von der Stadt entfernt und so liefen wir in die Stadt wo wir nach kurzer Suche das Hostel Casa de Laura fanden.

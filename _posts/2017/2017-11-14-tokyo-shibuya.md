@@ -4,7 +4,7 @@ date: "2017-11-14"
 author: chrissi
 tags: 
   - "japan"
-image: "/image/2017/img_5276.jpg"
+image: "/images/2017/img_5276.jpg"
 ---
 
 Bevor wir uns am Nachmittag das angesagte Shoppingviertel _Shibuya_ ansehen werden, fahren wir zunächst ins _Tadoroki Valley -_ eine kleine grüne Oase mitten in der Stadt. Schaut man sich im U-Bahn-Wagen um, sieht man, dass 8 von 10 Leute auf ihr Handy schauen. So ist die Bahnfahrt sehr schön ruhig.

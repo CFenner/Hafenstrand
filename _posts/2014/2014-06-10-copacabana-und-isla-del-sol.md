@@ -4,7 +4,7 @@ date: "2014-06-10"
 author: chrissi
 tags: 
   - "bolivien"
-image: "/image/2014/20140615-170659-61619194.jpg"
+image: "/images/2014/20140615-170659-61619194.jpg"
 ---
 
 ![20140615-180159-64919754.jpg](/images/2014/20140615-180159-64919754.jpg) Unser Bootsführer nach Copacabana

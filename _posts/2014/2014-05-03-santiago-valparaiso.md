@@ -4,7 +4,7 @@ date: "2014-05-03"
 author: chrissi
 tags: 
   - "chile"
-image: "/image/2014/20140615-132655-48415727.jpg"
+image: "/images/2014/20140615-132655-48415727.jpg"
 ---
 
 Nach dem Besuch im Parque Conguillio hatten wir endgültig genug vom Wandern und setzen uns noch am Abend in den Nachtbus nach Santiago. Wir quartierten uns im La Casa Roja ein, einem schönen alten Haus, das zum Hostel umgebaut wurde. ![20140503-162548.jpg](/images/2014/20140503-162548.jpg) Wir schliefen in riesigen Zimmern mit Parkett und bestem Stuck.

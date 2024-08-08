@@ -4,7 +4,7 @@ date: "2014-04-23"
 author: franzi
 tags: 
   - "chile"
-image: "/image/2014/20140615-211431-76471235.jpg"
+image: "/images/2014/20140615-211431-76471235.jpg"
 ---
 
 Gegen 11 Uhr sind wir mit dem Bus in Pucón eingetroffen. Und egal wo man sich in der Stadt befindet, immer blickt man auf den schneebedeckten Vulkan Villarica. Das Vulkangefährdungslevel ist im grünen Bereich.

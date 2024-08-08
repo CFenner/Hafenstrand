@@ -4,7 +4,7 @@ date: "2017-10-29"
 author: chrissi
 tags: 
   - "heidelberg"
-image: "/image/2017/img_5018.jpg"
+image: "/images/2017/img_5018.jpg"
 ---
 
 Vor fast genau drei Jahren sind wir von unserer Südamerika-Ozeanien-Reise zurückgekehrt. Inzwischen haben wir drei Umzüge, zwei neue Jobs und eine Geburt hinter uns. Mit letzterem kommt sowas schönes wie Elternzeit einher. Und in diese geht es nun Anfang November!

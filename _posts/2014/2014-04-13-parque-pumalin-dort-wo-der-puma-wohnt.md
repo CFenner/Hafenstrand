@@ -4,7 +4,7 @@ date: "2014-04-13"
 author: franzi
 tags: 
   - "chile"
-image: "/image/2014/20140418-200305.jpg"
+image: "/images/2014/20140418-200305.jpg"
 ---
 
 Wir waren am Tag zuvor mit der Fähre in Chaitén angekommen und hatten im Garten der Busstation/des Reiseveranstalters gezeltet. Anschließend ließen wir uns zum Parque Pumalín mitnehmen; zuerst im LKW, der uns aber am örtlichen Flughafen (die Straße wurde 15 Meter breit und es gab einen Tower mit Windfahne) rauswarf, weil er in eine andere Richtung musste.

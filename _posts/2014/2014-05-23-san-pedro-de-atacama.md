@@ -4,7 +4,7 @@ date: "2014-05-23"
 author: chrissi
 tags: 
   - "chile"
-image: "/image/2014/20140615-141001-51001344.jpg"
+image: "/images/2014/20140615-141001-51001344.jpg"
 ---
 
 Wir sind in der trockensten Wüste der Welt. Heute hat es geregnet. Die Pässe sind geschlossen und wir sitzen hier fest und können nichts machen.

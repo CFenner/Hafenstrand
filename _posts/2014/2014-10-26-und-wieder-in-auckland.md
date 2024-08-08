@@ -4,7 +4,7 @@ date: "2014-10-26"
 author: chrissi
 tags: 
   - "neuseeland"
-image: "/image/2014/img_1495.jpg"
+image: "/images/2014/img_1495.jpg"
 ---
 
 Nachdem die Pläne der vergangenen Tage alle durchkreuzt wurden (Hostel war ausgebucht, Campingplatz war geschlossen), ließen wir das Auto im Parkhaus und machten uns einen schönen Tag in Auckland.

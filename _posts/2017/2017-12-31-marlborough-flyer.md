@@ -4,7 +4,7 @@ date: "2017-12-31"
 author: chrissi
 tags: 
   - "neuseeland"
-image: "/image/2017/img_0092-1.jpg"
+image: "/images/2017/img_0092-1.jpg"
 ---
 
 Zu Silvester sind wir in _Picton_, wo die Fähren von _Wellington_ auf der Nordinsel ankommen. Hier haben wir zufällig entdeckt, dass am 31. eine alter Zug mit passender Dampflok ins nahegelegene _Blenheim_ fährt. Das ist für uns eine schöne Gelegenheit für einen Jahresabschluss, zumal wir wohl vom Feuerwerk nichts mitbekommen werden.

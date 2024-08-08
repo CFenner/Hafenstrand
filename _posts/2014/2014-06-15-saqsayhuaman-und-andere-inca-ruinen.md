@@ -4,7 +4,7 @@ date: "2014-06-15"
 author: chrissi
 tags: 
   - "peru"
-image: "/image/2014/20140615-124932-46172950.jpg"
+image: "/images/2014/20140615-124932-46172950.jpg"
 ---
 
 Gestern haben wir einen kleinen Trip um Cusco herum gemacht. ![20140615-115629-42989709.jpg](/images/2014/20140615-115629-42989709.jpg)

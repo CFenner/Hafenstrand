@@ -4,7 +4,7 @@ date: "2017-11-15"
 author: chrissi
 tags: 
   - "japan"
-image: "/image/2017/img_5367.jpg"
+image: "/images/2017/img_5367.jpg"
 ---
 
 Am Mittwoch waren wir in Shinjuku, einem quirligen Geschäftsviertel. Den Tag starteten wir dort mit einem leckeren Pancake-Frühstück in der _Hawaiian Pancake Factory_ in der _Lumine Mall_. Die Speisekarte hat uns sofort überzeugt.

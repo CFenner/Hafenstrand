@@ -4,7 +4,7 @@ date: "2014-06-24"
 author: chrissi
 tags: 
   - "peru"
-image: "/image/2014/20140624-105054-39054911.jpg"
+image: "/images/2014/20140624-105054-39054911.jpg"
 ---
 
 Am Freitag nach dem Fußball ging's los von Cusco nach Paracas bzw. leider nur bis Ica. Als wir im Bus waren, wussten wir, warum wir so viel Geld zahlen mussten.

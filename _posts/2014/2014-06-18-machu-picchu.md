@@ -4,7 +4,7 @@ date: "2014-06-18"
 author: chrissi
 tags: 
   - "peru"
-image: "/image/2014/20140618-124734-46054029.jpg"
+image: "/images/2014/20140618-124734-46054029.jpg"
 ---
 
 ![20140618-090316-32596800.jpg](/images/2014/20140618-090316-32596800.jpg) Angekommen in Aguas Calientes

@@ -4,7 +4,7 @@ date: "2017-12-27"
 author: chrissi
 tags: 
   - "neuseeland"
-image: "/image/2017/img_9626-1.jpg"
+image: "/images/2017/img_9626-1.jpg"
 ---
 
 Wir wollen in den nächsten zwei Tagen zum _French Pass_ fahren und unterwegs zwei Nächte in der _Elaine Bay_ Übernachten. _French Pass_ ist eine Meerenge zwischen dem Festland und der Insel _D'Urville_ und der Weg dorthin soll sehr schöne Ausblicke über die Tasman Bay ermöglichen. Der Haken an der Sache ist nur, dass man ab der _Elaine Bay_ 22 km auf einer kurvigen Schotterstraße zurücklegen muss.

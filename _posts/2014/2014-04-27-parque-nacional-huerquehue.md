@@ -4,7 +4,7 @@ date: "2014-04-27"
 author: chrissi
 tags: 
   - "chile"
-image: "/image/2014/20140615-131738-47858693.jpg"
+image: "/images/2014/20140615-131738-47858693.jpg"
 ---
 
 Wir hatten uns vorgenommen den Parque Nacional Huerquehue in der Nähe von Pucón zu besuchen. Dort gibt es eine Wanderung, die vier Tage dauert und einmal durch den Park und zurück führt. Nach einer kurzen Busfahrt direkt zum Parkeingang ging es auch schon los, vorbei an schönen Seen und durch Wälder, die diesmal nicht so langweilig waren. ![20140427-122239.jpg](/images/2014/20140427-122239.jpg) Lago Tinquilco

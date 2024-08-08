@@ -4,7 +4,7 @@ date: "2014-08-05"
 author: franzi
 tags: 
   - "ecuador"
-image: "/image/2014/20140806-082831-30511406.jpg"
+image: "/images/2014/20140806-082831-30511406.jpg"
 ---
 
 Wie schon im letzten Beitrag angekündigt, begeben wir uns auf dem Seeweg nach Französisch-Polynesien. Von dort sind es nur noch sechs Flugstunden bis nach Neuseeland, davor ein paar mehr Segelstunden.

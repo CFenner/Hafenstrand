@@ -4,7 +4,7 @@ date: "2014-04-17"
 author: franzi
 tags: 
   - "argentinien"
-image: "/image/2014/20140615-141157-51117254.jpg"
+image: "/images/2014/20140615-141157-51117254.jpg"
 ---
 
 Nach einer beinahe endlosen, aber landschaftlich sehr schönen Busfahrt (hier sah man den Herbst das erste Mal richtig), die sich eher wie ein Legehennentransport anfühlte, kamen wir in Futaleufú an, einem beschaulichen Städtchen an der Grenze zu Argentinien.

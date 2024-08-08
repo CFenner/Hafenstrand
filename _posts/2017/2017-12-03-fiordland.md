@@ -4,7 +4,7 @@ date: "2017-12-03"
 author: chrissi
 tags: 
   - "neuseeland"
-image: "/image/2017/img_7515.jpg"
+image: "/images/2017/img_7515.jpg"
 ---
 
 Unser nächstes Ziel ist eine der Hauptattraktionen der Südinsel, der Fjord _Milford Sound_, der tief im _Fiordland National Park_ liegt. Um ihn zu erreichen sind wir gestern in der Region _Fiordland_ angekommen und haben in _Mossburn_ übernachtet. Heute machen wir uns dann auf dem Weg zum nächsten Zwischenstopp, _Cascarde Creek Campground_, der dann noch 40 Minuten vom _Milford Sound_ entfernt ist.

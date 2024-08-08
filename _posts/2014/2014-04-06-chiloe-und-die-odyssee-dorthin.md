@@ -4,7 +4,7 @@ date: "2014-04-06"
 author: chrissi
 tags: 
   - "chile"
-image: "/image/2014/20140615-155310-57190065.jpg"
+image: "/images/2014/20140615-155310-57190065.jpg"
 ---
 
 Die Busfahrt nach Los Antiguos war ohne besondere Vorkommnisse und auch der Grenzübergang nach Chile Chico ging problemlos vorüber. In Chile Chico angekommen, waren wir erstmal gestrandet. Die Parkranger meinten, es sei zu kalt für den Nationalpark, das Busunternehmen war gerade nicht besetzt und ein lokaler Caféinhaber fragte, ob wir aus Ost- oder Westdeutschland wären, was wir aber nicht verstanden. Daraufhin meinte er, wir sollten uns mit unseren Spanischkenntnissen gleich erschießen, was er pantomimisch darstellte. Von anderen Backpackern hatten wir erfahren, dass um 16 Uhr ein Bus fahren sollte, wir mussten also nur noch 8 Stunden in der Sonne am See warten.

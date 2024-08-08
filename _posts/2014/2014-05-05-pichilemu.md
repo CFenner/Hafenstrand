@@ -4,7 +4,7 @@ date: "2014-05-05"
 author: chrissi
 tags: 
   - "chile"
-image: "/image/2014/20140615-131900-47940074.jpg"
+image: "/images/2014/20140615-131900-47940074.jpg"
 ---
 
 In Pichilemu, einem Surferort, wollten wir eine Woche Strandurlaub machen. Wir kamen mal wieder spät abends an, weil der Bus nicht 4 sondern 6 Stunden brauchte und weil Nebensaison war hatten auch alle Campingplätze geschlossen. Deshalb entschlossen wir uns nach nur einer Nacht zur Rückkehr nach Santiago.

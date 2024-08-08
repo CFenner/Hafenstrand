@@ -5,7 +5,7 @@ author: franzi
 tags: 
   - "bolivien"
   - "chile"
-image: "/image/2014/20140615-134347-49427345.jpg"
+image: "/images/2014/20140615-134347-49427345.jpg"
 ---
 
 Wir kamen bei Sonnenschein in San Pedro de Atacama an und erste Freude auf folgende sonnige Tage machte sich breit. Wir flüchteten ja schon seit geraumer Zeit in den Norden in die Nähe des Äquators um endlich ein Gefühl von Sommerurlaub aufkommen zu lassen. Doch bereits am nächsten Morgen blieben die erwarteten und in der Wüste sicher geglaubten Sonnenstrahlen aus, die einem nach einer Nacht bei Minusgraden aus dem Zelt locken. Auf den wolkenverhangenen Tag folgten zwei Sandsturmtage inklusive Stromausfall und abschließendem Schneefall.

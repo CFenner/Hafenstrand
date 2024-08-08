@@ -4,7 +4,7 @@ date: "2014-03-04"
 author: franzi
 tags: 
   - "hamburg"
-image: "/image/2014/20140615-160350-57830220.jpg"
+image: "/images/2014/20140615-160350-57830220.jpg"
 ---
 
 Abschied in Hamburg ![20140304-192400.jpg](/images/2014/20140304-192400.jpg)
