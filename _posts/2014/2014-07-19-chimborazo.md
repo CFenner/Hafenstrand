@@ -4,7 +4,7 @@ date: "2014-07-19"
 author: franzi
 tags: 
   - "ecuador"
-image: "20140719-151113-54673880.jpg"
+image: "/image/2014/20140719-151113-54673880.jpg"
 ---
 
 Der Vulkan Chimborazo wurde erstmals von Edward Whymper bestiegen, derselbe Bergsteiger, der den Gipfel des Matterhorns als Erster erreichte und damals das Wettrennen für die schweizerische Seite entschied. Unten auf dem Foto sieht man die fünf Gipfel des weitläufigen Vulkans. Er ist mit 6.310 m der höchste Berg Ecuadors. Am Gipfelkreuz ist man aufgrund der Lage des Vulkans und der Form unseres Planeten der Sonne am nächsten.

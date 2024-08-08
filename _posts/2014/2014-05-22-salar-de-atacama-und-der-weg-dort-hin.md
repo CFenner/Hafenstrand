@@ -4,7 +4,7 @@ date: "2014-05-22"
 author: chrissi
 tags: 
   - "chile"
-image: "20140615-145025-53425463.jpg"
+image: "/image/2014/20140615-145025-53425463.jpg"
 ---
 
 Mit dem Pachamama Bus fuhr ich weiter Richtung San Pedro de Atacama und machte dabei an verschiedenen Orten Halt.

@@ -4,7 +4,7 @@ date: "2014-07-28"
 author: chrissi
 tags: 
   - "ecuador"
-image: "20140725-193649-70609045.jpg"
+image: "/image/2014/20140725-193649-70609045.jpg"
 ---
 
 Die Stadt Puerto Ayora auf Santa Cruz hat eigentlich keinen richtigen Hafen, sondern nur ein paar kleine Pontons. Alles muss von den in der Bucht ankernden Booten in Wassertaxis dorthin gebracht werden.

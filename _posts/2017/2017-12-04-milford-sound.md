@@ -4,7 +4,7 @@ date: "2017-12-04"
 author: chrissi
 tags: 
   - "neuseeland"
-image: "img_7791-1.jpg"
+image: "/image/2017/img_7791-1.jpg"
 ---
 
 Der Tag beginnt für uns sehr früh, Tom weckt uns gegen 6 Uhr. Da wir nicht auf der Frühstückskarte der _Sandflies_ stehen wollen, packen wir so schnell es geht und machen uns auf den Weg zum _Milford Sound_. Im Kindersitz schläft Tom zum Glück recht bald wieder ein.

@@ -4,7 +4,7 @@ date: "2017-12-20"
 author: chrissi
 tags: 
   - "neuseeland"
-image: "img_9102.jpg"
+image: "/image/2017/img_9102.jpg"
 ---
 
 Wir haben uns nun doch dazu entschieden den südlichen Teil des _Abel Tasman National Park_s zu besuchen, obwohl dieser sehr bevölkert sein soll. Der _Abel Tasman_ ist der meist besuchte aber zugleich kleinste Nationalpark der Südinsel. Dementsprechend voll ist es und besonders zur Weihnachtszeit (Sommer). Zusätzlich zu den ausländischen Touristen sind dann noch die _Kiwis_ (Neuseeländer) hier, aber erst zwischen Weihnachten und Silvester, wir sind also gerade noch rechtzeitig.

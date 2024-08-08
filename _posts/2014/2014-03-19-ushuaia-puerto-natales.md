@@ -5,7 +5,7 @@ author: franzi
 tags: 
   - "argentinien"
   - "chile"
-image: "20140319-182802.jpg"
+image: "/image/2014/20140319-182802.jpg"
 ---
 
 Ich wollte unbedingt in _Tolhuin_ am _Lago Fagnano_ zelten - ohne dass es mir möglich war, die genaue bzw. auch ungefähre Lage vom angepeilten Campingplatz vorher ausfindig zu machen. In _Tolhuin_ angekommen schickten uns die hilfsbereiten Argentinier, ob alter Mann auf dem Fahrrad oder Taxifahrer, hin und her in verschiedenste Richtungen. Nachdem wir das Spiel in Ushuaia schon einmal mitgemacht hatten, beschlossen wir lieber den örtlichen Beschilderungen zum _Lago Fagnano_ zu folgen und erstmal vier Kilometer zum Ufer zu laufen. Auf dem Weg sollten wir nicht lange alleine bleiben. Es gesellten sich immer mehr Hunde zu uns, mal hinter uns hertrottend, mal nach einem kleinen Abstecher durch den Wald an der nächsten Ecke auf uns wartend. Der Campingplatz tauchte tatsächlich nach der dritten Linkskurve vor uns auf, unschwer erkennbar an den Holztippis, die als Windschutz dienen.  

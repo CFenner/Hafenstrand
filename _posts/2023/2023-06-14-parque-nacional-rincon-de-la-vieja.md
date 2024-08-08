@@ -4,7 +4,7 @@ date: "2023-06-14"
 author: chrissi
 tags: 
   - "costa-rica"
-image: "img_4814.jpg"
+image: "/image/2023/img_4814.jpg"
 ---
 
 <figure>

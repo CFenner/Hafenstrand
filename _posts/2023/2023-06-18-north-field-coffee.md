@@ -4,7 +4,7 @@ date: "2023-06-18"
 author: chrissi
 tags: 
   - "costa-rica"
-image: "img_2415.jpg"
+image: "/image/2023/img_2415.jpg"
 ---
 
 Wir wollen uns zeigen lassen wie der Kaffee und die Schokolade / Cacao hergestellt werden, die wir so gerne trinken / essen.

@@ -4,7 +4,7 @@ date: "2014-02-17"
 author: chrissi
 tags: 
   - "hamburg"
-image: "images/2014/20140615-141749-51469456.jpg"
+image: "/images/2014/20140615-141749-51469456.jpg"
 ---
 
 ![20140218-001947.jpg](images/2014/20140218-001947.jpg)

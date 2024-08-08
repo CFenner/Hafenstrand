@@ -4,7 +4,7 @@ date: "2014-03-13"
 author: chrissi
 tags: 
   - "argentinien"
-image: "20140615-133950-49190814.jpg"
+image: "/image/2014/20140615-133950-49190814.jpg"
 ---
 
 [![20140313-191838.jpg](images/20140313-191838.jpg)](https://hafenstrand.wordpress.com/wp-content/uploads/2014/03/20140313-191838.jpg) Endlich wieder Mützen tragen!
