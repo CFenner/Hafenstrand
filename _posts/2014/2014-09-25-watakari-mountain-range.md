@@ -4,7 +4,7 @@ date: "2014-09-25"
 author: chrissi
 tags: 
   - "neuseeland"
-image: "dscf5215-0.jpg"
+image: "/images/2014/dscf5215-0.jpg"
 ---
 
 Mit dem Mietwagen ging es zuerst nach Westen, in die Watakari Mountain Range.

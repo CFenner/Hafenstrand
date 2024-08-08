@@ -4,7 +4,7 @@ date: "2014-10-09"
 author: chrissi
 tags: 
   - "neuseeland"
-image: "dscf6332-0.jpg"
+image: "/images/2014/dscf6332-0.jpg"
 ---
 
 Nur fünf Tage sind vergangen und wir haben schon wieder so viel gesehen!
