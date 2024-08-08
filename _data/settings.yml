@@ -32,7 +32,7 @@ menu__settings:
         title: 'Costa Rica'
     - title: 'Südamerika' 
       submenu: 
-      - url: '/tags/?tag=argentienien'
+      - url: '/tags/?tag=argentinien'
         title: 'Argentinien'
       - url: '/tags/?tag=bolivien'
         title: 'Bolivien'
@@ -173,7 +173,7 @@ social:
 
 
 #-------------------------------
-# Comment Section (Disqus)
+# Comment Section (Disqus)dscf7272.jpg
 disqus-identifier: hafenstrand # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 #-------------------------------
